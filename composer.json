@@ -1,0 +1,6 @@
+{
+    "name": "daniels/packagist-dummy",
+    "require": {
+        "php": ">5"
+    }
+}
